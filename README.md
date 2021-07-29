@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi 👋
+### My name is Shat, a third year student  of Computer Science at The Academic College Tel Aviv-Yaffo.
+### Looking for a student position
+### Skills: C++, C, Python, C#, Java
 <!--
 **shayashkenazi/shayashkenazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
