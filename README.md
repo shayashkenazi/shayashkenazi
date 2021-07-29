@@ -2,6 +2,10 @@
 ### My name is Shay, a third year student of Computer Science at The Academic College Tel Aviv-Yaffo.
 ### Looking for a student position
 ### Skills: C++, C, Python, C#, Java
+### 📫 you can reach me:
+## gmail: shayas9529@gmail.com
+## linkedin: https://www.linkedin.com/in/shay-ashkenazi/
+
 <!--
 **shayashkenazi/shayashkenazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
