@@ -1,5 +1,5 @@
 ### Hi 👋
-### My name is Shat, a third year student  of Computer Science at The Academic College Tel Aviv-Yaffo.
+### My name is Shay, a third year student of Computer Science at The Academic College Tel Aviv-Yaffo.
 ### Looking for a student position
 ### Skills: C++, C, Python, C#, Java
 <!--
