@@ -1,6 +1,5 @@
 ### Hi 👋
-### My name is Shay, a third year student of Computer Science at The Academic College Tel Aviv-Yaffo.
-### Looking for a student position
+### My name is Shay, a Software Engineer with high motivation and passion for technology, science, and innovation. Currently set to graduate with a B.Sc in Computer Science this upcoming September. Looking for a challenging position to contribute to a team and evolve my technical skills.
 ### Skills: C++, C, Python, C#, Java
 ### 📫 you can reach me:
 #### gmail: shayas9529@gmail.com
